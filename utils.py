@@ -19,7 +19,7 @@ ABOUT = """
 ● **SOURCE :** [BugHunterBots](https://github.com/nuhmanpk) 
 """
 
-GITHUB_LINK = "https://github.com/nuhmanpk/text2imagebot"
+GITHUB_LINK = "https://github.com/adam-corner/text2imagebot"
 
 CHANNEL_BUTTON = InlineKeyboardMarkup(
     [[InlineKeyboardButton("↗ Join Here ↗", url="https://t.me/BughunterBots")]]
